@@ -21,7 +21,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktaroabobon&layout=compact&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktaroabobon&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktaroabobon&show_icons=true&theme=gruvbox&bg_color=white)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
