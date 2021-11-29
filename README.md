@@ -18,3 +18,8 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/ktaroabobon/contributions.svg" />
   </a>
 </p>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktaroabobon&layout=compact&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktaroabobon&show_icons=true&theme=gruvbox)
+
