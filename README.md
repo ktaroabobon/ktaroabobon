@@ -23,3 +23,6 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktaroabobon&show_icons=true&theme=gruvbox)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktaroabobon&theme=github)
