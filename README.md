@@ -1,6 +1,6 @@
 ### Hi, I'm ktaroabobon 👋
 
-### My page is [here](https://github.com/ktaroabobon.io/)
+### My page is [here](https://ktaroabobon.github.io/)
 
 
 <p align="left"> 
