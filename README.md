@@ -7,7 +7,7 @@
   <a href="https://github.com/ktaroabobon/ktaroabobon/">
     <img src="https://komarev.com/ghpvc/?username=ktaroabobon" alt="ktaroabobon" />
   </a>
-  <a href="http://twitter.com/abobon_blog">
+  <a href="http://twitter.com/__abobon__">
     <img height="20" src="https://img.shields.io/twitter/follow/__abobon__?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/ktaroabobon">
