@@ -94,7 +94,9 @@ def embed_icon(svg: str, slug: str, x: float, y: float) -> str:
 def build(items: list[tuple[str, str]], mode: str, color: str) -> str:
     if len(items) > MAX_PER_ROW:
         raise ValueError(f"at most {MAX_PER_ROW} items per row")
-    width = SLOT * len(items)
+    # Every group has the same width, so the rows scale by the same ratio on
+    # narrow screens and the icons keep one size. Shorter rows stay left-aligned.
+    width = SLOT * MAX_PER_ROW
     names = ", ".join(label for _, label in items)
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{HEIGHT}" '
