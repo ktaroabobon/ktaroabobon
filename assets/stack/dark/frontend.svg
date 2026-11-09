@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="76" viewBox="0 0 800 76" role="img"><title>React, Next.js, Vite, Tailwind CSS, Chakra UI, Three.js</title><svg x="30.0" y="6" width="40" height="40" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><g fill="#61DAFB"><circle cx="64" cy="64" r="11.4"/><path d="M107.3 45.2c-2.2-.8-4.5-1.6-6.9-2.3.6-2.4 1.1-4.8 1.5-7.1 2.1-13.2-.2-22.5-6.6-26.1-1.9-1.1-4-1.6-6.4-1.6-7 0-15.9 5.2-24.9 13.9-9-8.7-17.9-13.9-24.9-13.9-2.4 0-4.5.5-6.4 1.6-6.4 3.7-8.7 13-6.6 26.1.4 2.3.9 4.7 1.5 7.1-2.4.7-4.7 1.4-6.9 2.3C8.2 50 1.4 56.6 1.4 64s6.9 14 19.3 18.8c2.2.8 4.5 1.6 6.9 2.3-.6 2.4-1.1 4.8-1.5 7.1-2.1 13.2.2 22.5 6.6 26.1 1.9 1.1 4 1.6 6.4 1.6 7.1 0 16-5.2 24.9-13.9 9 8.7 17.9 13.9 24.9 13.9 2.4 0 4.5-.5 6.4-1.6 6.4-3.7 8.7-13 6.6-26.1-.4-2.3-.9-4.7-1.5-7.1 2.4-.7 4.7-1.4 6.9-2.3 12.5-4.8 19.3-11.4 19.3-18.8s-6.8-14-19.3-18.8zM92.5 14.7c4.1 2.4 5.5 9.8 3.8 20.3-.3 2.1-.8 4.3-1.4 6.6-5.2-1.2-10.7-2-16.5-2.5-3.4-4.8-6.9-9.1-10.4-13 7.4-7.3 14.9-12.3 21-12.3 1.3 0 2.5.3 3.5.9zM81.3 74c-1.8 3.2-3.9 6.4-6.1 9.6-3.7.3-7.4.4-11.2.4-3.9 0-7.6-.1-11.2-.4-2.2-3.2-4.2-6.4-6-9.6-1.9-3.3-3.7-6.7-5.3-10 1.6-3.3 3.4-6.7 5.3-10 1.8-3.2 3.9-6.4 6.1-9.6 3.7-.3 7.4-.4 11.2-.4 3.9 0 7.6.1 11.2.4 2.2 3.2 4.2 6.4 6 9.6 1.9 3.3 3.7 6.7 5.3 10-1.7 3.3-3.4 6.6-5.3 10zm8.3-3.3c1.5 3.5 2.7 6.9 3.8 10.3-3.4.8-7 1.4-10.8 1.9 1.2-1.9 2.5-3.9 3.6-6 1.2-2.1 2.3-4.2 3.4-6.2zM64 97.8c-2.4-2.6-4.7-5.4-6.9-8.3 2.3.1 4.6.2 6.9.2 2.3 0 4.6-.1 6.9-.2-2.2 2.9-4.5 5.7-6.9 8.3zm-18.6-15c-3.8-.5-7.4-1.1-10.8-1.9 1.1-3.3 2.3-6.8 3.8-10.3 1.1 2 2.2 4.1 3.4 6.1 1.2 2.2 2.4 4.1 3.6 6.1zm-7-25.5c-1.5-3.5-2.7-6.9-3.8-10.3 3.4-.8 7-1.4 10.8-1.9-1.2 1.9-2.5 3.9-3.6 6-1.2 2.1-2.3 4.2-3.4 6.2zM64 30.2c2.4 2.6 4.7 5.4 6.9 8.3-2.3-.1-4.6-.2-6.9-.2-2.3 0-4.6.1-6.9.2 2.2-2.9 4.5-5.7 6.9-8.3zm22.2 21l-3.6-6c3.8.5 7.4 1.1 10.8 1.9-1.1 3.3-2.3 6.8-3.8 10.3-1.1-2.1-2.2-4.2-3.4-6.2zM31.7 35c-1.7-10.5-.3-17.9 3.8-20.3 1-.6 2.2-.9 3.5-.9 6 0 13.5 4.9 21 12.3-3.5 3.8-7 8.2-10.4 13-5.8.5-11.3 1.4-16.5 2.5-.6-2.3-1-4.5-1.4-6.6zM7 64c0-4.7 5.7-9.7 15.7-13.4 2-.8 4.2-1.5 6.4-2.1 1.6 5 3.6 10.3 6 15.6-2.4 5.3-4.5 10.5-6 15.5C15.3 75.6 7 69.6 7 64zm28.5 49.3c-4.1-2.4-5.5-9.8-3.8-20.3.3-2.1.8-4.3 1.4-6.6 5.2 1.2 10.7 2 16.5 2.5 3.4 4.8 6.9 9.1 10.4 13-7.4 7.3-14.9 12.3-21 12.3-1.3 0-2.5-.3-3.5-.9zM96.3 93c1.7 10.5.3 17.9-3.8 20.3-1 .6-2.2.9-3.5.9-6 0-13.5-4.9-21-12.3 3.5-3.8 7-8.2 10.4-13 5.8-.5 11.3-1.4 16.5-2.5.6 2.3 1 4.5 1.4 6.6zm9-15.6c-2 .8-4.2 1.5-6.4 2.1-1.6-5-3.6-10.3-6-15.6 2.4-5.3 4.5-10.5 6-15.5 13.8 4 22.1 10 22.1 15.6 0 4.7-5.8 9.7-15.7 13.4z"/></g></svg><text x="50.0" y="68" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="12" fill="#9198A1" text-anchor="middle">React</text><svg x="130.0" y="6" width="40" height="40" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 100 100"><mask id="nextjs-next-js__a" width="100" height="100" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha"><circle cx="50" cy="50" r="50" fill="black" style="fill:black;fill-opacity:1;"/></mask><g mask="url(#nextjs-next-js__a)"><path fill="black" stroke="white" stroke-width="3.33" d="M98.34 50a48.33 48.33 0 1 1-96.67 0 48.33 48.33 0 0 1 96.67 0Z" style="fill:black;fill-opacity:1;stroke:white;stroke-opacity:1;"/><path fill="url(#nextjs-next-js__b)" d="M83.06 87.51 38.41 30H30v39.98h6.73V38.55l41.05 53.03a50 50 0 0 0 5.28-4.07"/><rect width="6.667" height="40" x="63.889" y="30" fill="url(#nextjs-next-js__c)"/></g><defs><linearGradient id="nextjs-next-js__b" x1="60.556" x2="80.278" y1="64.722" y2="89.167" gradientUnits="userSpaceOnUse"><stop stop-color="white" style="stop-color:white;stop-opacity:1;"/><stop offset=".604" stop-color="white" stop-opacity="0" style="stop-color:none;stop-opacity:0;"/><stop offset="1" stop-color="white" stop-opacity="0" style="stop-color:none;stop-opacity:0;"/></linearGradient><linearGradient id="nextjs-next-js__c" x1="67.222" x2="67.111" y1="30" y2="59.375" gradientUnits="userSpaceOnUse"><stop stop-color="white" style="stop-color:white;stop-opacity:1;"/><stop offset="1" stop-color="white" stop-opacity="0" style="stop-color:none;stop-opacity:0;"/></linearGradient></defs></svg><text x="150.0" y="68" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="12" fill="#9198A1" text-anchor="middle">Next.js</text><svg x="230.0" y="6" width="40" height="40" viewBox="0 0 23 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20.7482 0H18.8887C21.641 3.93959 21.6571 10.0462 18.8887 14H20.7482C23.516 10.0462 23.4999 3.93959 20.7482 0Z" fill="white"/>
+  <path d="M2.07027 3.05176e-05C-0.682028 3.93963 -0.698142 10.0463 2.07027 14H3.92985C1.16208 10.0463 1.1782 3.93963 3.92985 3.05176e-05H2.07027Z" fill="white"/>
+  <path d="M12.0135 13.6771C11.815 13.9297 11.4089 13.7892 11.4089 13.4682V10.3853C11.4089 10.0114 11.106 9.70846 10.7321 9.70846H7.32818C7.05295 9.70846 6.89245 9.39713 7.05295 9.17347L9.29089 6.04023C9.61124 5.59225 9.29089 4.9696 8.73979 4.9696H4.62036C4.34513 4.9696 4.18463 4.65828 4.34512 4.43461L7.24632 0.372548C7.31013 0.283598 7.41262 0.230743 7.52155 0.230743H16.1671C16.4424 0.230743 16.6029 0.542069 16.4424 0.765734L14.2044 3.89897C13.8841 4.34695 14.2044 4.9696 14.7555 4.9696H18.1595C18.4418 4.9696 18.6004 5.29511 18.4257 5.51748L12.0142 13.6777L12.0135 13.6771Z" fill="#863BFF"/>
+  <mask id="vite-mask0_127_17274" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="4" y="0" width="15" height="14">
+    <path d="M11.9823 13.677C11.7838 13.9296 11.3777 13.7891 11.3777 13.4681V10.3852C11.3777 10.0113 11.0747 9.70837 10.7009 9.70837H7.29693C7.0217 9.70837 6.8612 9.39704 7.0217 9.17338L9.25964 6.04014C9.57999 5.59216 9.25964 4.96951 8.70854 4.96951H4.58911C4.31388 4.96951 4.15338 4.65818 4.31387 4.43452L7.21507 0.372457C7.27888 0.283506 7.38137 0.230652 7.4903 0.230652H16.1359C16.4111 0.230652 16.5716 0.541978 16.4111 0.765643L14.1732 3.89888C13.8528 4.34686 14.1732 4.96951 14.7243 4.96951H18.1282C18.4106 4.96951 18.5691 5.29502 18.3944 5.51739L11.9829 13.6776L11.9823 13.677Z" fill="black"/>
+  </mask>
+  <g mask="url(#vite-mask0_127_17274)">
+    <g filter="url(#vite-filter0_f_127_17274)">
+      <ellipse cx="1.6481" cy="4.39979" rx="1.6481" ry="4.39979" transform="matrix(0.00324134 0.999995 0.999995 -0.00324134 2.91309 9.66077)" fill="#EDE6FF"/>
+    </g>
+    <g filter="url(#vite-filter1_f_127_17274)">
+      <ellipse cx="3.11172" cy="8.9321" rx="3.11172" ry="8.9321" transform="matrix(0.00324134 0.999995 0.999995 -0.00324134 -7.51758 2.58936)" fill="#EDE6FF"/>
+    </g>
+    <g filter="url(#vite-filter2_f_127_17274)">
+      <ellipse cx="1.6481" cy="9.12221" rx="1.6481" ry="9.12221" transform="matrix(0.00324134 0.999995 0.999995 -0.00324134 -7.8584 3.61816)" fill="#7E14FF"/>
+    </g>
+    <g filter="url(#vite-filter3_f_127_17274)">
+      <ellipse cx="1.6481" cy="9.15566" rx="1.6481" ry="9.15566" transform="matrix(0.00324134 0.999995 0.999995 -0.00324134 -6.4834 9.00391)" fill="#7E14FF"/>
+    </g>
+    <g filter="url(#vite-filter4_f_127_17274)">
+      <ellipse cx="1.6481" cy="9.15566" rx="1.6481" ry="9.15566" transform="matrix(0.00324134 0.999995 0.999995 -0.00324134 -6.02441 9.34766)" fill="#7E14FF"/>
+    </g>
+    <g filter="url(#vite-filter5_f_127_17274)">
+      <ellipse cx="4.21045" cy="6.60625" rx="4.21045" ry="6.60625" transform="matrix(0.0584509 -0.99829 -0.99829 -0.0584509 26.4971 8.26871)" fill="#EDE6FF"/>
+    </g>
+    <g filter="url(#vite-filter6_f_127_17274)">
+      <ellipse cx="1.03839" cy="6.43346" rx="1.03839" ry="6.43346" transform="matrix(-0.0172986 -0.99985 -0.99985 0.0172986 26.9297 5.63535)" fill="#7E14FF"/>
+    </g>
+    <g filter="url(#vite-filter7_f_127_17274)">
+      <ellipse cx="1.03839" cy="6.43346" rx="1.03839" ry="6.43346" transform="matrix(-0.0172986 -0.99985 -0.99985 0.0172986 26.9297 5.63535)" fill="#7E14FF"/>
+    </g>
+    <g filter="url(#vite-filter8_f_127_17274)">
+      <ellipse cx="4.36576" cy="2.91514" rx="1.31855" ry="8.70955" transform="rotate(39.5103 4.36576 2.91514)" fill="#7E14FF"/>
+    </g>
+    <g filter="url(#vite-filter9_f_127_17274)">
+      <ellipse cx="18.4697" cy="-1.59207" rx="1.31855" ry="8.70955" transform="rotate(37.8923 18.4697 -1.59207)" fill="#7E14FF"/>
+    </g>
+    <g filter="url(#vite-filter10_f_127_17274)">
+      <ellipse cx="16.6417" cy="2.12577" rx="1.78679" ry="2.89199" transform="rotate(37.8923 16.6417 2.12577)" fill="#47BFFF"/>
+    </g>
+    <g filter="url(#vite-filter11_f_127_17274)">
+      <ellipse cx="3.68841" cy="11.7003" rx="1.31855" ry="8.70955" transform="rotate(37.8923 3.68841 11.7003)" fill="#7E14FF"/>
+    </g>
+    <g filter="url(#vite-filter12_f_127_17274)">
+      <ellipse cx="3.68841" cy="11.7003" rx="1.31855" ry="8.70955" transform="rotate(37.8923 3.68841 11.7003)" fill="#7E14FF"/>
+    </g>
+    <g filter="url(#vite-filter13_f_127_17274)">
+      <ellipse cx="14.9179" cy="9.17936" rx="1.31855" ry="8.70955" transform="rotate(37.8923 14.9179 9.17936)" fill="#7E14FF"/>
+    </g>
+    <g filter="url(#vite-filter14_f_127_17274)">
+      <ellipse cx="15.7453" cy="9.92533" rx="1.78679" ry="4.57726" transform="rotate(37.8923 15.7453 9.92533)" fill="#47BFFF"/>
+    </g>
+  </g>
+  <defs>
+    <filter id="vite-filter0_f_127_17274" x="-1.66562" y="5.06287" width="17.967" height="12.4635" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="2.29179" result="effect1_foregroundBlur_127_17274"/>
+    </filter>
+    <filter id="vite-filter1_f_127_17274" x="-12.0914" y="-2.02332" width="27.0314" height="15.3908" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="2.29179" result="effect1_foregroundBlur_127_17274"/>
+    </filter>
+    <filter id="vite-filter2_f_127_17274" x="-10.6037" y="0.838165" width="23.7454" height="8.79703" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="1.37508" result="effect1_foregroundBlur_127_17274"/>
+    </filter>
+    <filter id="vite-filter3_f_127_17274" x="-9.22867" y="6.22382" width="23.8118" height="8.79703" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="1.37508" result="effect1_foregroundBlur_127_17274"/>
+    </filter>
+    <filter id="vite-filter4_f_127_17274" x="-8.76968" y="6.56757" width="23.8118" height="8.79703" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="1.37508" result="effect1_foregroundBlur_127_17274"/>
+    </filter>
+    <filter id="vite-filter5_f_127_17274" x="8.96524" y="-5.12549" width="22.3664" height="17.6096" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="2.29179" result="effect1_foregroundBlur_127_17274"/>
+    </filter>
+    <filter id="vite-filter6_f_127_17274" x="11.2967" y="0.91397" width="18.3655" height="7.58884" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="1.37508" result="effect1_foregroundBlur_127_17274"/>
+    </filter>
+    <filter id="vite-filter7_f_127_17274" x="11.2967" y="0.91397" width="18.3655" height="7.58884" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="1.37508" result="effect1_foregroundBlur_127_17274"/>
+    </filter>
+    <filter id="vite-filter8_f_127_17274" x="-4.01871" y="-6.60739" width="16.7698" height="19.045" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="1.37508" result="effect1_foregroundBlur_127_17274"/>
+    </filter>
+    <filter id="vite-filter9_f_127_17274" x="10.2694" y="-11.2637" width="16.4007" height="19.3433" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="1.37508" result="effect1_foregroundBlur_127_17274"/>
+    </filter>
+    <filter id="vite-filter10_f_127_17274" x="11.6239" y="-3.15738" width="10.0355" height="10.5663" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="1.37508" result="effect1_foregroundBlur_127_17274"/>
+    </filter>
+    <filter id="vite-filter11_f_127_17274" x="-4.51187" y="2.02869" width="16.4007" height="19.3433" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="1.37508" result="effect1_foregroundBlur_127_17274"/>
+    </filter>
+    <filter id="vite-filter12_f_127_17274" x="-4.51187" y="2.02869" width="16.4007" height="19.3433" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="1.37508" result="effect1_foregroundBlur_127_17274"/>
+    </filter>
+    <filter id="vite-filter13_f_127_17274" x="6.71762" y="-0.49228" width="16.4007" height="19.3433" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="1.37508" result="effect1_foregroundBlur_127_17274"/>
+    </filter>
+    <filter id="vite-filter14_f_127_17274" x="9.84946" y="3.39893" width="11.7913" height="13.0528" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="1.37508" result="effect1_foregroundBlur_127_17274"/>
+    </filter>
+  </defs>
+</svg><text x="250.0" y="68" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="12" fill="#9198A1" text-anchor="middle">Vite</text><svg x="330.0" y="6" width="40" height="40" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path d="M64.004 25.602c-17.067 0-27.73 8.53-32 25.597 6.398-8.531 13.867-11.73 22.398-9.597 4.871 1.214 8.352 4.746 12.207 8.66C72.883 56.629 80.145 64 96.004 64c17.066 0 27.73-8.531 32-25.602-6.399 8.536-13.867 11.735-22.399 9.602-4.87-1.215-8.347-4.746-12.207-8.66-6.27-6.367-13.53-13.738-29.394-13.738zM32.004 64c-17.066 0-27.73 8.531-32 25.602C6.402 81.066 13.87 77.867 22.402 80c4.871 1.215 8.352 4.746 12.207 8.66 6.274 6.367 13.536 13.738 29.395 13.738 17.066 0 27.73-8.53 32-25.597-6.399 8.531-13.867 11.73-22.399 9.597-4.87-1.214-8.347-4.746-12.207-8.66C55.128 71.371 47.868 64 32.004 64zm0 0" fill="#38bdf8"/></svg><text x="350.0" y="68" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="12" fill="#9198A1" text-anchor="middle">Tailwind CSS</text><svg x="430.0" y="6" width="40" height="40" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs><linearGradient id="chakraui-a" x1="64" x2="64" y1="0" y2="128" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#7acbd4"/><stop offset="1" stop-color="#29c6b7"/></linearGradient></defs><circle cx="64" cy="64" r="64" fill="url(#chakraui-a)"/><path fill="#fff" d="M93.56 57.89a.913.913 0 0 0-.67-1.54H64.87c-1.71 0-1.43-.92-.82-2.04.61-1.13 16.11-29.4 16.11-29.4.07-.15.11-.3.11-.47a1.082 1.082 0 0 0-1.84-.77S34.5 67.45 34.5 67.45c-.19.18-.3.42-.3.7 0 .53.43.96.96.96h29.97c1.88 0 1.21 1.08.75 1.71-.46.63-23.15 32-23.15 32a1.129 1.129 0 0 0 .9 1.81c.31 0 .59-.12.79-.32s49.13-46.38 49.13-46.38l.01-.01.02-.02Z"/></svg><text x="450.0" y="68" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="12" fill="#9198A1" text-anchor="middle">Chakra UI</text><svg x="530.0" y="6" width="40" height="40" fill="#FFFFFF" color="#FFFFFF" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><g color="#000" font-weight="400" font-family="sans-serif"><path style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M16.219 15.762a1.129 1.129 0 00-1.076 1.399l24.394 98.742a1.129 1.129 0 001.879.544l73.386-70.59a1.129 1.129 0 00-.47-1.899L16.55 15.806a1.129 1.129 0 00-.331-.044zm1.584 2.754l94.024 27.07-70.566 67.877-23.458-94.947z" overflow="visible"/><path style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M65.137 29.84a1.129 1.129 0 00-.807.315L27.654 65.46a1.129 1.129 0 00.471 1.898L76.984 81.44a1.129 1.129 0 001.409-1.355L66.21 30.698a1.129 1.129 0 00-1.073-.858zm-.651 3.3L75.734 78.73l-45.104-13L64.486 33.14z" overflow="visible"/><path style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M46.914 47.313a1.129 1.129 0 00-1.076 1.399l6.054 24.531a1.129 1.129 0 001.88.543l18.222-17.563a1.129 1.129 0 00-.472-1.898l-24.277-6.968a1.129 1.129 0 00-.331-.044zm1.583 2.751l20.522 5.89L53.614 70.8l-5.117-20.736z" overflow="visible"/><path style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M40.902 22.809a1.129 1.129 0 00-.807.316L21.873 40.687a1.129 1.129 0 00.472 1.898l24.273 6.969a1.129 1.129 0 001.408-1.356l-6.051-24.53a1.129 1.129 0 00-1.073-.86zm-.65 3.3l5.114 20.736-20.517-5.89 15.403-14.847zM89.453 36.793a1.129 1.129 0 00-.806.316L70.423 54.67a1.129 1.129 0 00.472 1.899l24.274 6.968a1.129 1.129 0 001.408-1.356l-6.05-24.53a1.129 1.129 0 00-1.074-.859zm-.65 3.3l5.114 20.737L73.4 54.94l15.403-14.846zM52.944 71.864a1.129 1.129 0 00-.74.315L33.982 89.742a1.129 1.129 0 00.472 1.898l24.278 6.968a1.129 1.129 0 001.407-1.355l-6.055-24.531a1.129 1.129 0 00-1.14-.858zm-.582 3.3l5.118 20.737-20.522-5.89 15.404-14.846z" overflow="visible"/></g></svg><text x="550.0" y="68" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="12" fill="#9198A1" text-anchor="middle">Three.js</text></svg>
