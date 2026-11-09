@@ -83,3 +83,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack/dark/infra-and-tools.svg">
   <img src="assets/stack/light/infra-and-tools.svg" alt="Docker, GitHub Actions, Ansible, Home Assistant, Vitest, Playwright" title="Docker, GitHub Actions, Ansible, Home Assistant, Vitest, Playwright">
 </picture>
+
+---
+
+<sub>ロゴは各所有者の商標である。ここでは、使っている技術を示すためだけに表示している。所有者による推奨を意味しない。Redis is a registered trademark of Redis Ltd. Any rights therein are reserved to Redis Ltd. ロゴの出典とライセンスは [assets/logos/SOURCES.md](assets/logos/SOURCES.md) に書いた。</sub>

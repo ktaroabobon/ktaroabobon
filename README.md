@@ -83,3 +83,7 @@ Software engineer based in Japan.
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack/dark/infra-and-tools.svg">
   <img src="assets/stack/light/infra-and-tools.svg" alt="Docker, GitHub Actions, Ansible, Home Assistant, Vitest, Playwright" title="Docker, GitHub Actions, Ansible, Home Assistant, Vitest, Playwright">
 </picture>
+
+---
+
+<sub>Logos are trademarks of their respective owners and are shown only to name the technologies I use. No endorsement is implied. Redis is a registered trademark of Redis Ltd. Any rights therein are reserved to Redis Ltd. Logo sources and licenses: [assets/logos/SOURCES.md](assets/logos/SOURCES.md).</sub>
