@@ -146,6 +146,8 @@
       </picture>
       <br><sub>Three.js</sub>
     </td>
+    <td></td>
+    <td></td>
   </tr>
   <tr><th colspan="8" align="left">バックエンド</th></tr>
   <tr>
@@ -191,6 +193,8 @@
       </picture>
       <br><sub>Firebase</sub>
     </td>
+    <td></td>
+    <td></td>
   </tr>
   <tr><th colspan="8" align="left">データベース</th></tr>
   <tr>
@@ -236,6 +240,8 @@
       </picture>
       <br><sub>Drizzle</sub>
     </td>
+    <td></td>
+    <td></td>
   </tr>
   <tr><th colspan="8" align="left">データと AI</th></tr>
   <tr>
@@ -281,6 +287,8 @@
       </picture>
       <br><sub>Anthropic</sub>
     </td>
+    <td></td>
+    <td></td>
   </tr>
   <tr><th colspan="8" align="left">インフラとツール</th></tr>
   <tr>
@@ -326,5 +334,7 @@
       </picture>
       <br><sub>Playwright</sub>
     </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>

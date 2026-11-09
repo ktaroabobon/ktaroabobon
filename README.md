@@ -146,6 +146,8 @@ Software engineer based in Japan.
       </picture>
       <br><sub>Three.js</sub>
     </td>
+    <td></td>
+    <td></td>
   </tr>
   <tr><th colspan="8" align="left">Backend</th></tr>
   <tr>
@@ -191,6 +193,8 @@ Software engineer based in Japan.
       </picture>
       <br><sub>Firebase</sub>
     </td>
+    <td></td>
+    <td></td>
   </tr>
   <tr><th colspan="8" align="left">Database</th></tr>
   <tr>
@@ -236,6 +240,8 @@ Software engineer based in Japan.
       </picture>
       <br><sub>Drizzle</sub>
     </td>
+    <td></td>
+    <td></td>
   </tr>
   <tr><th colspan="8" align="left">Data and AI</th></tr>
   <tr>
@@ -281,6 +287,8 @@ Software engineer based in Japan.
       </picture>
       <br><sub>Anthropic</sub>
     </td>
+    <td></td>
+    <td></td>
   </tr>
   <tr><th colspan="8" align="left">Infra and tools</th></tr>
   <tr>
@@ -326,5 +334,7 @@ Software engineer based in Japan.
       </picture>
       <br><sub>Playwright</sub>
     </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
