@@ -1,6 +1,6 @@
 <p align="right"><a href="README.md">English</a> | <b>日本語</b></p>
 
-# こんにちは、Keitaro Watanabe です
+# こんにちは、ktaroabobon (Keitaro Watanabe) です
 
 日本で働くソフトウェアエンジニアです。
 

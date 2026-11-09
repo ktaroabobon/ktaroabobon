@@ -8,8 +8,10 @@ and replaces their accent colors with the profile's orange.
 
 Usage:
     python3 scripts/build_cards.py
+    CARDS_SOURCE_REF=some-branch python3 scripts/build_cards.py
 """
 
+import os
 import re
 import urllib.request
 from pathlib import Path
@@ -18,9 +20,10 @@ from theme import ORANGE_DARK, ORANGE_LIGHT
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "assets" / "cards"
+# Set CARDS_SOURCE_REF to read the cards from another branch of the source repo.
 SOURCE = (
-    "https://raw.githubusercontent.com/ktaroabobon/"
-    "github-profile-summary-cards-example/master/profile-summary-card-output"
+    "https://raw.githubusercontent.com/ktaroabobon/github-profile-summary-cards-example/"
+    f"{os.environ.get('CARDS_SOURCE_REF', 'master')}/profile-summary-card-output"
 )
 CARDS = [
     "0-profile-details",
@@ -29,6 +32,8 @@ CARDS = [
     "3-stats",
     "4-productive-time",
 ]
+
+PROFILE_TITLE = "ktaroabobon (Keitaro Watanabe)"
 
 # Accent colors used by the upstream "github" and "github_dark" themes.
 TITLE = "#0366d6"
@@ -80,6 +85,14 @@ def recolor(svg: str, orange: str) -> str:
         r'(<g transform="scale\(6\)" style="fill: )#[0-9a-fA-F]{3,8}',
         lambda m: m.group(1) + orange,
         svg,
+    )
+    # The action cuts the profile title at 22 characters. The chart starts
+    # below the title line, so the full title fits without overlapping it.
+    svg = re.sub(
+        r'(<text [^>]*font-size: 22px;[^>]*>)ktaroabobon \([^<]*\)(</text>)',
+        lambda m: m.group(1) + PROFILE_TITLE + m.group(2),
+        svg,
+        count=1,
     )
     svg = re.sub(TITLE, orange, svg, flags=re.IGNORECASE)
     svg = re.sub(CHART, orange, svg, flags=re.IGNORECASE)

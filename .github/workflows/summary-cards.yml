@@ -3,8 +3,9 @@ name: Update summary cards
 on:
   schedule:
     # The cards in ktaroabobon/github-profile-summary-cards-example are
-    # regenerated during 00:00-01:00 UTC, so recolor them after that.
-    - cron: "30 1 * * *"
+    # regenerated at 03:17 JST (18:17 UTC). Scheduled runs can start late,
+    # so recolor them three hours later, at 06:17 JST (21:17 UTC).
+    - cron: "17 21 * * *"
   workflow_dispatch:
 
 permissions:

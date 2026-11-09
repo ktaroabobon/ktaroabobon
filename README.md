@@ -1,6 +1,6 @@
 <p align="right"><b>English</b> | <a href="README.ja.md">日本語</a></p>
 
-# Hi, I'm Keitaro Watanabe
+# Hi, I'm ktaroabobon (Keitaro Watanabe)
 
 Software engineer based in Japan.
 
